@@ -25,7 +25,7 @@
 
 
 
-# **Character Encoding**
+# **Bytes: Character Encoding**
 ---
 - Python Object: `bytes()` immutable, and `bytearray()` modifiable 
 - assign values to bytes or sets of bytes 
@@ -34,3 +34,6 @@
 - **ASCII** = python default and oldest 
 - `bytestring` = string of bytes -> `b'\x01\x02\x03\x04\x05'`
 
+
+# **Bitwise Operations**
+---
