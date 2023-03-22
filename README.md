@@ -27,5 +27,10 @@
 
 # **Character Encoding**
 ---
-
+- Python Object: `bytes()` immutable, and `bytearray()` modifiable 
+- assign values to bytes or sets of bytes 
+- map binary numbers to characters 
+- **UTF-8** used most widely today 
+- **ASCII** = python default and oldest 
+- `bytestring` = string of bytes -> `b'\x01\x02\x03\x04\x05'`
 
